@@ -1,9 +1,12 @@
 function oddEven(num) {
-    if (num % 2 == 0)
-        console.log("even")
-    else if (num == Math.round(num))
+    if (!Number.isInteger(num))
+        console.log("invalid");
+    else if (num % 2 === 0)
+        console.log("even");
+    else
         console.log("odd")
-    else console.log("invalid");
 }
-oddEven(8);
+oddEven(1.5);
+
+
 

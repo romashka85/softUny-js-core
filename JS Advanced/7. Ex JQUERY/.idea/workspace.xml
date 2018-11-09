@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b304bae-d153-4577-b769-39ab48010102" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/1. Order Rectangles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/2.Fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/3. List_Processor1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/4. Cars with Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/4. Cars with map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/5. Sum/dom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/5. Sum/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. Lab Object Composition/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Lab. DOM Manipulations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. DOM search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/1. Aggregates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/2. Currency Format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/3. Command Processor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/4. Max Element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/5. Next Article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.  Lab Advanced Functions/next-article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/1. Sort Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/2. Argument Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/3. Functional Sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/4. BMI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/5. Vector Math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/6. Breackfast Robot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Advanced Functions/7. Monkey Patcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/10.  Objects and JSON/3. FromJsonToHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/10.  Objects and JSON/4.  Sum by Town.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/10.  Objects and JSON/5. WordsCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/11. Ex. Object and JSON/1. Heroic Inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/11. Ex. Object and JSON/2. JSON’s Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/11. Ex. Object and JSON/3. Cappy Juice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/11. Ex. Object and JSON/4. Store Catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/11. Ex. Object and JSON/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/7. Ex. Arrays Matrices/10. Orbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/7. Ex. Arrays Matrices/6. sortArreyBy2Kriteria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/7. Ex. Arrays Matrices/7. Magic Matrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/7. Ex. Arrays Matrices/8. Diagonal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/7. Ex. Arrays Matrices/9. DiagonalAtack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/8. Lab Strings and Regex/10. EmailValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/8. Lab Strings and Regex/12. MatchDates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/8. Lab Strings and Regex/8. Censorship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/8. Lab Strings and Regex/9. matchWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/1.SplitWhithDelim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/10. SecretData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/2. repitString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/3. StartWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/4. EndWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/5. CapitalizeWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/6. CaptureNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/7. FindNamesInSentences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/9. Ex Strings and Regex/8. WordInSentence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/Exam prep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/Exam prep/24 April 2018 (4. Arena Taer).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/Exam prep/3. Dna.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JS Fundamentals/Exam prep/4. championship.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/areaOfFigura.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/areaOfFigura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/distanceBetweenPoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/distanceBetweenPoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/filterByEge.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/filterByEge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/letterOccur.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/letterOccur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/nextDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/nextDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/stringOfNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/stringOfNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/sum3Nums.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/sum3Nums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/sumVAT.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/1. JavaScript Syntax/sumVAT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/ChessBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/ChessBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/OddEven.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/OddEven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/PrimeCheker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/PrimeCheker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/bottelsInBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/bottelsInBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/colorfulNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/colorfulNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/leapYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/leapYear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/сircleArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/2. Control Flow Logic/сircleArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/12.assignProp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/12.assignProp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/HelloJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/HelloJavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/rounding.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/3. Exercises Data Types Expressions Statements/rounding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/DaysOfWeek.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/DaysOfWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/RectangleOfStars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/RectangleOfStars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/TriangleOfstars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/TriangleOfstars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/functionalcalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/functionalcalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/palindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/wordsUppercase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/wordsUppercase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/аggregateElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/4 Functions and Arrow Functions/аggregateElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/5. Exercises Functions and Arrow Functions/2RoadRadar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Fundamentals/5. Exercises Functions and Arrow Functions/2RoadRadar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/.idea/6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/1. Sum First Last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/10.equalNeighbors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/2. Even Position Element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/3. Negative Positive Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/4. First and Last K Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/5. Last K Numbers Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/6.duobleNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/7.smallest2Nums.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/8.biggestElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/6/9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/.idea/7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/1.printArreyDelim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/2.printN-thElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/3.EddRemoveElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/4.rotateElements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/7/5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/.idea/9. Objects and JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/1.townsToJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/2.scoreToHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Fundamentals/9. Objects and JSON/2.sumByTown.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1314963539">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="10" />
+          <entry key="js" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="2280" />
+          <entry key="js" value="1115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2280" />
+          <entry key="JavaScript" value="1115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Increment Counter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="30" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-end-line="47" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. Timer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. DOM search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery-3.1.1.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dom-search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2080">
+              <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. Book Generator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/formValidation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ex.html" />
+        <option value="$PROJECT_DIR$/timer.js" />
+        <option value="$PROJECT_DIR$/2. Timer.html" />
+        <option value="$PROJECT_DIR$/1. Increment Counter.html" />
+        <option value="$PROJECT_DIR$/3. Book Generator.html" />
+        <option value="$PROJECT_DIR$/Exemples.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/5. Form-Validation-Skeleton/formValidation.js" />
+        <option value="$PROJECT_DIR$/5. Form-Validation-Skeleton/5. DOM Search.html" />
+        <option value="$PROJECT_DIR$/dom-search.js" />
+        <option value="$PROJECT_DIR$/5. DOM search.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1060" />
+    <option name="y" value="605" />
+    <option name="width" value="885" />
+    <option name="height" value="515" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7. Ex JQUERY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7. Ex JQUERY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7. Ex JQUERY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7. Ex JQUERY" type="462c0819:PsiDirectoryNode" />
+              <item name="5. Form-Validation-Skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Technologies\js-core\JS Advanced\7. Ex JQUERY" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.5. DOM search.html">
+    <configuration name="1. Increment Counter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/7. Ex JQUERY/1. Increment Counter.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="5. DOM search.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/7. Ex JQUERY/5. DOM search.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/7. Ex JQUERY/5. Form-Validation-Skeleton/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exemples.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Exemples.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="formValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/5. Form-Validation-Skeleton">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Exemples.js" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.1. Increment Counter.html" />
+      <item itemvalue="Node.js.formValidation.js" />
+      <item itemvalue="JavaScript Debug.5. DOM search.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.5. DOM search.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.formValidation.js" />
+        <item itemvalue="JavaScript Debug.1. Increment Counter.html" />
+        <item itemvalue="Node.js.Exemples.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b304bae-d153-4577-b769-39ab48010102" name="Default" comment="" />
+      <created>1519981713865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519981713865</updated>
+      <workItem from="1519981715514" duration="330000" />
+      <workItem from="1520264458865" duration="20245000" />
+      <workItem from="1521103239793" duration="6255000" />
+      <workItem from="1539866657191" duration="73000" />
+      <workItem from="1540400763954" duration="18900000" />
+      <workItem from="1540802408273" duration="11684000" />
+      <workItem from="1540821526752" duration="31000" />
+      <workItem from="1540822855947" duration="77000" />
+      <workItem from="1540827678252" duration="1970000" />
+      <workItem from="1541529828602" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60298000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30204892" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6312057" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990878" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/timer.js" />
+    <entry file="file://$PROJECT_DIR$/Ex.html" />
+    <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exemples.js" />
+    <entry file="file://$USER_HOME$/Desktop/03.jQuery Exercises-Skeletons/Problem-5-Form-Validation-Skeleton/formValidation.js" />
+    <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/5. DOM Search.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="30" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Book Generator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. DOM search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Increment Counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Form-Validation-Skeleton/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

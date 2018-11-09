@@ -6,4 +6,6 @@ function calcNextDay(year, month, day) {
         (nextDate.getMonth() + 1) + '-' +
         nextDate.getDate();
 }
-calcNextDay(2016, 9, 30)
+
+console.log(calcNextDay(2016, 9, 30));
+

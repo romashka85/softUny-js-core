@@ -3,4 +3,5 @@ function sumNumbers(a, b, c){
     console.log(sum);
 }
 
-sumNumbers(5, 6, 7)
+sumNumbers(5, 6, 7);
+

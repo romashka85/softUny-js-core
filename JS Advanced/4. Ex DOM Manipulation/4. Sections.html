@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sections</title>
+    <style>
+        #content {
+            width: 1000px;
+        }
+
+        #content div {
+            float: left;
+            width: 300px;
+            height: 300px;
+            margin: 2em;
+            background: #5555ff;
+            text-align: center;
+        }
+
+        #content div p {
+            color: white;
+            margin: 6em 3em 6em 3em;
+        }
+    </style>
+</head>
+<div id="content">
+</div>
+<body onload="create(['Section 1', 'Section 2', 'Section 3', 'Section 4']);">
+<script>
+    function create(sentences) {
+        for (let el of sentences) {
+            let paragraph = document.createElement('p');
+            let container = document.getElementById('content');
+            let myDiv = document.createElement('div');
+            paragraph.textContent = el;
+            myDiv.appendChild(paragraph);
+            container.appendChild(myDiv);
+
+            paragraph.style.display = 'none';
+            myDiv.addEventListener('click', () => {
+                paragraph.style.display = 'block';
+            })
+        }
+    }
+</script>
+</body>
+</html>

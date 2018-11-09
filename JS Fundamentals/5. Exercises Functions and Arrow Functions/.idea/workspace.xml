@@ -1,35 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a9ea0e-104f-4148-80e4-2cd2850ebc30" name="Default" comment="" />
+    <list default="true" id="14a9ea0e-104f-4148-80e4-2cd2850ebc30" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/10. Orbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/6. sortArreyBy2Kriteria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/7. Magic Matrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/8. Diagonal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/9. DiagonalAtack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/10. EmailValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/12. MatchDates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/8. Censorship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/9. matchWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/1.SplitWhithDelim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/10. SecretData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/2. repitString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/3. StartWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/4. EndWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/5. CapitalizeWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/6. CaptureNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/7. FindNamesInSentences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/8. WordInSentence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep/2. Race.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep/3. Dna.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/areaOfFigura.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/areaOfFigura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/distanceBetweenPoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/distanceBetweenPoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/filterByEge.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/filterByEge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/letterOccur.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/letterOccur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/nextDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/nextDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/stringOfNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/stringOfNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/sum3Nums.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/sum3Nums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/sumVAT.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/sumVAT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/ChessBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/ChessBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/OddEven.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/OddEven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/PrimeCheker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/PrimeCheker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/bottelsInBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/bottelsInBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/colorfulNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/colorfulNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/leapYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/leapYear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/сircleArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/сircleArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/12.assignProp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/12.assignProp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/HelloJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/HelloJavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/rounding.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/rounding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/DaysOfWeek.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/DaysOfWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/RectangleOfStars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/RectangleOfStars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/TriangleOfstars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/TriangleOfstars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/functionalcalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/functionalcalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/palindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/wordsUppercase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/wordsUppercase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/аggregateElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/аggregateElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2RoadRadar.js" beforeDir="false" afterPath="$PROJECT_DIR$/2RoadRadar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/1. Sum First Last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/10.equalNeighbors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/2. Even Position Element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/3. Negative Positive Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/4. First and Last K Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/5. Last K Numbers Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/6.duobleNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/7.smallest2Nums.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/8.biggestElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/1.printArreyDelim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/2.printN-thElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/3.EddRemoveElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/4.rotateElements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/9. Objects and JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/1.townsToJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/2.scoreToHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/2.sumByTown.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="278230146">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3901" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JavaScript" value="3896" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="insideVolume.js" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/insideVolume.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="29" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2RoadRadar.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2RoadRadar.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7TreasurLocator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="521">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8TripLength.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9Radio Crystals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10DNA Helix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3TemplateFormat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4CookingByNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5ModifyAverage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6DistanceIsValid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -43,11 +234,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/insideVolume.js" />
+        <option value="$PROJECT_DIR$/gg.js" />
+        <option value="$PROJECT_DIR$/4CookingByNumbers.js" />
+        <option value="$PROJECT_DIR$/3TemplateFormat.js" />
         <option value="$PROJECT_DIR$/2RoadRadar.js" />
+        <option value="$PROJECT_DIR$/5ModifyAverage.js" />
+        <option value="$PROJECT_DIR$/8TripLength.js" />
+        <option value="$PROJECT_DIR$/6DistanceIsValid.js" />
+        <option value="$PROJECT_DIR$/7TreasurLocator.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/9Radio Crystals.js" />
+        <option value="$PROJECT_DIR$/10DNA Helix.js" />
       </list>
     </option>
   </component>
@@ -57,28 +261,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1932" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="650" />
+    <option name="y" value="361" />
+    <option name="width" value="1055" />
+    <option name="height" value="573" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,14 +285,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7. Ex. Arrays Matrices" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,16 +306,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="insideVolume.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="insideVolume.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.10DNA Helix.js">
+    <configuration name="10DNA Helix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="10DNA Helix.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="3TemplateFormat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3TemplateFormat.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="6DistanceIsValid.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="6DistanceIsValid.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="9Radio Crystals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="9Radio Crystals.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.9Radio Crystals.js" />
+      <item itemvalue="Node.js.10DNA Helix.js" />
+      <item itemvalue="Node.js.3TemplateFormat.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.6DistanceIsValid.js" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.insideVolume.js" />
+      <list>
+        <item itemvalue="Node.js.10DNA Helix.js" />
+        <item itemvalue="Node.js.6DistanceIsValid.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.3TemplateFormat.js" />
+        <item itemvalue="Node.js.9Radio Crystals.js" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,34 +353,57 @@
       <workItem from="1496331583240" duration="242000" />
       <workItem from="1517140255120" duration="69000" />
       <workItem from="1517472051112" duration="6803000" />
+      <workItem from="1517570026420" duration="7777000" />
+      <workItem from="1517834827383" duration="4705000" />
+      <workItem from="1517903820763" duration="19472000" />
+      <workItem from="1538052543666" duration="30317000" />
+      <workItem from="1539338067595" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8343000" />
+    <option name="totallyTimeSpent" value="70692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3249715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13152677" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27801418" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3249715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24933687" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3249715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -171,50 +411,82 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/insideVolume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insideVolume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insideVolume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insideVolume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gg.js" />
     <entry file="file://$PROJECT_DIR$/2RoadRadar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="714">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3TemplateFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4CookingByNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5ModifyAverage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6DistanceIsValid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7TreasurLocator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8TripLength.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Radio Crystals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10DNA Helix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insideVolume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,3 +1,0 @@
-function townsToJson(arr) {
-
-}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Search</title>
+    <script src="jquery-3.1.1.min.js"></script>
+    <style>
+        .add-controls, .search-controls {
+            width: 20em;
+            height: 2em;
+        }
+        input {
+            position: absolute;
+            left:6em;
+        }
+        .button {
+            background-color: darkgrey;
+            color: white;
+            font-weight: bold;
+            position: absolute;
+            left: 15em;
+            border: 1px solid black;
+            padding: 0 5px 0 5px;
+        }
+        .result-controls .button {
+            position: relative;
+            left: 0;
+            font-size: 50%;
+            margin-right:1em;
+            padding: 0;
+            bottom: 3px;
+        }
+        li {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="content"></div>
+
+    <script>
+        domSearch("#content",false);
+    </script>
+    <script>
+
+
+        function domSearch(selector, isSearchCaseSensitive = false) {
+            let content = $(selector);
+            content.append($('<div>').attr('class', 'cool'));
+
+            content.append(
+                $('<div>').addClass('add-controls')
+                    .append(
+                        $('<label for="add">').text('Enter text:')
+                    )
+                    .append(
+                        $('<input id="add">')
+                    )
+                    .append(
+                        $('<anchor id="addButton">').addClass('button').text('Add')
+                            .on('click' , addNewItem)
+                    )
+            ).append(
+                $('<div>').addClass('search-controls')
+                    .append(
+                        $('<label for="search">').text('Search:')
+                    )
+                    .append(
+                        $('<input id="search">')
+                            .on('input', filterItems)
+                    )
+            ).append(
+                $('<div>').addClass('result-controls')
+                    .append(
+                        $('<ul>').addClass('items-list')
+                    )
+            );
+
+            function addNewItem() {
+                // add new item to li
+                let text = $('#add').val();
+                let li = $('<li>').addClass('list-item').text(text);
+            }
+
+            function filterItems() {
+                // filter items in li by input from search field
+            }
+        }
+        // domSearch("#content",false);
+    </script>
+
+</body>
+</html>

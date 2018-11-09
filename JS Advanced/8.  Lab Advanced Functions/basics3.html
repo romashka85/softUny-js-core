@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2 id="element">Towns</h2>
+<script>
+    const obj = {
+        name: 'Pesho',
+        movies: ['Game of Thrones', 'Walking Dead', 'Venom'],
+        printMovies: function () {
+            console.log(this);
+            this.movies.forEach((movie) => {
+                console.log(`${this.name} has watched ${movie}`)
+            })
+        }
+    };
+    document.getElementById('element').addEventListener('click', obj.printMovies.bind(obj)); ///call this with bind
+
+</script>
+
+</body>
+</html>

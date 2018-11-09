@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fe0e200-20fb-465e-b798-fc1be6dfca4c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/10. Orbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/6. sortArreyBy2Kriteria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/7. Magic Matrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/8. Diagonal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Ex. Arrays Matrices/9. DiagonalAtack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/10. EmailValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/12. MatchDates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/8. Censorship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Lab Strings and Regex/9. matchWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/1.SplitWhithDelim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/10. SecretData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/2. repitString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/3. StartWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/4. EndWith.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/5. CapitalizeWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/6. CaptureNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/7. FindNamesInSentences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Ex Strings and Regex/8. WordInSentence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep/2. Race.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep/3. Dna.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/areaOfFigura.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/areaOfFigura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/distanceBetweenPoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/distanceBetweenPoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/filterByEge.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/filterByEge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/letterOccur.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/letterOccur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/nextDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/nextDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/stringOfNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/stringOfNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/sum3Nums.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/sum3Nums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. JavaScript Syntax/sumVAT.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1. JavaScript Syntax/sumVAT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/ChessBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/ChessBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/OddEven.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/OddEven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/PrimeCheker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/PrimeCheker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/bottelsInBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/bottelsInBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/colorfulNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/colorfulNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/leapYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/leapYear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Control Flow Logic/сircleArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Control Flow Logic/сircleArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/12.assignProp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/12.assignProp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/HelloJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/HelloJavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/rounding.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3. Exercises Data Types Expressions Statements/rounding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/DaysOfWeek.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/DaysOfWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/RectangleOfStars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/RectangleOfStars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/TriangleOfstars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/TriangleOfstars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/functionalcalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/functionalcalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/palindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/wordsUppercase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/wordsUppercase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4 Functions and Arrow Functions/аggregateElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4 Functions and Arrow Functions/аggregateElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. Exercises Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. Exercises Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. Exercises Functions and Arrow Functions/2RoadRadar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5. Exercises Functions and Arrow Functions/2RoadRadar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/1. Sum First Last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/10.equalNeighbors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/2. Even Position Element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/3. Negative Positive Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/4. First and Last K Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/5. Last K Numbers Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/6.duobleNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/7.smallest2Nums.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/8.biggestElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/1.printArreyDelim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/2.printN-thElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/3.EddRemoveElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/4.rotateElements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/9. Objects and JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/1.townsToJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/2.scoreToHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Objects and JSON/2.sumByTown.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1665346602">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1266" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1266" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. First and Last K Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.duobleNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Last K Numbers Sequence.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.biggestElement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Sum First Last.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.smallest2Nums.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9. DiagonalSum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.equalNeighbors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. Even Position Element.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. Negative Positive Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/llkjl.js" />
+        <option value="$PROJECT_DIR$/kjhkj.js" />
+        <option value="$PROJECT_DIR$/7.smallest2Nums.js" />
+        <option value="$PROJECT_DIR$/9.js" />
+        <option value="$PROJECT_DIR$/3. Negative Positive Numbers.js" />
+        <option value="$PROJECT_DIR$/exemple.css" />
+        <option value="$PROJECT_DIR$/1. Sum First Last.js" />
+        <option value="$PROJECT_DIR$/4. First and Last K Numbers.js" />
+        <option value="$PROJECT_DIR$/8.biggestElement.js" />
+        <option value="$PROJECT_DIR$/Exemple.js" />
+        <option value="$PROJECT_DIR$/2. Even Position Element.js" />
+        <option value="$PROJECT_DIR$/5. Last K Numbers Sequence.js" />
+        <option value="$PROJECT_DIR$/6.duobleNumbers.js" />
+        <option value="$PROJECT_DIR$/10.equalNeighbors.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/9. DiagonalSum.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="6. Lab Arrays Matrices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="6. Lab Arrays Matrices" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.9. DiagonalSum.js">
+    <configuration name="10.equalNeighbors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="10.equalNeighbors.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="5. Last K Numbers Sequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="5. Last K Numbers Sequence.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="9. DiagonalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="9. DiagonalSum.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exemple.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Exemple.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Exemple.js" />
+      <item itemvalue="Node.js.9. DiagonalSum.js" />
+      <item itemvalue="Node.js.10.equalNeighbors.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.5. Last K Numbers Sequence.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.9. DiagonalSum.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.10.equalNeighbors.js" />
+        <item itemvalue="Node.js.5. Last K Numbers Sequence.js" />
+        <item itemvalue="Node.js.Exemple.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe0e200-20fb-465e-b798-fc1be6dfca4c" name="Default" comment="" />
+      <created>1496143654091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496143654091</updated>
+      <workItem from="1496143655327" duration="4169000" />
+      <workItem from="1496330915055" duration="111000" />
+      <workItem from="1496332615670" duration="3082000" />
+      <workItem from="1496647597482" duration="9977000" />
+      <workItem from="1496756787223" duration="7221000" />
+      <workItem from="1518010099165" duration="4594000" />
+      <workItem from="1518805123303" duration="319000" />
+      <workItem from="1519660310546" duration="20071000" />
+      <workItem from="1521188275361" duration="262000" />
+      <workItem from="1521188859205" duration="79000" />
+      <workItem from="1538387766380" duration="1316000" />
+      <workItem from="1538471441200" duration="11733000" />
+      <workItem from="1538727956661" duration="20000" />
+      <workItem from="1538821349179" duration="2153000" />
+      <workItem from="1538837532915" duration="23000" />
+      <workItem from="1539338257549" duration="65000" />
+      <workItem from="1539338612160" duration="1399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1554" height="882" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13909031" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3271028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/3. Negative Positive Numbers.js</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/llkjl.js" />
+    <entry file="file://$PROJECT_DIR$/kjhkj.js" />
+    <entry file="file://$PROJECT_DIR$/exemple.css" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exemple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. First and Last K Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.duobleNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Last K Numbers Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.biggestElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.smallest2Nums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Even Position Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Negative Positive Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Sum First Last.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.equalNeighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. DiagonalSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

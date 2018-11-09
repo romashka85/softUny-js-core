@@ -9,3 +9,8 @@ function countLetter(str, letter) {
     return count;
 }
 countLetter('hello', 'l');
+
+
+
+
+

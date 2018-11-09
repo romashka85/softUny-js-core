@@ -12,4 +12,3 @@ function assign(arr) {
 console.log(assign(['name', 'Pesho', 'age', '23', 'gender', 'male']));
 
 
-

@@ -11,3 +11,5 @@ function chessBoard(size) {
     }
     return html + '</div>\n';
 }
+
+

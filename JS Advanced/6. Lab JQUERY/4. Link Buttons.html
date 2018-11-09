@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="link-buttons.css" />
+    <script src="jquery-3.1.1.min.js"></script>
+</head>
+<body onload="attachEvents()">
+    <a class="button">Sofia</a>
+    <a class="button">Plovdiv</a>
+    <a class="button">Varna</a>
+<script>
+    function attachEvents() {
+        $('a.button').on('click', clicked);
+
+        function clicked() {
+            $('.selected').removeClass('selected');
+            $(this).addClass('selected');
+        }
+    }
+
+</script>
+</body>
+</html>
