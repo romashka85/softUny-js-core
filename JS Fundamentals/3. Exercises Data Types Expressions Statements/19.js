@@ -11,16 +11,4 @@ function quadraticEquation(a, b, c) {
     } else {
         console.log('No')
     }
-
-    for (let i = 0; i < a.length; i++) {
-        const aElement = a[i];
-        
-    }
-
-    for (let i = 0; i < a.length; i++) {
-        const aElement = a[i];
-        
-    }
 }
-
-

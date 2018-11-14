@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM PREP/Exam prep 2/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM PREP/Exam prep 2/task1/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM PREP/Exam prep 2/task1/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/.idea/10. Lab Object Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/1. Order Rectangles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/2.Fibonacci.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/3. List_Processor1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/4. Cars with Object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/4. Cars with map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/5. Sum/dom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/5. Sum/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/5. Sum/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/List_Processor2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/object composition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10. Lab Object Composition/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/.idea/11. Ex Object Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/1. Array extension.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/2. Construction Crew.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/3. Modify Cars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/6.Sorted List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. Ex Object Composition/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/1. Lab. Document Object Model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/1SumNums.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/2. Show more.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/3. Collect List Items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/4. Colorize Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/5. Countdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/6. Extract Parenthesis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/7. Sum Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2. Lab. Document Object Model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/2. DOM Manipulations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/1. List of Items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/2. Add and Delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/3. Delete from Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/4. Stopwatch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/5. Mouse Gradient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/6. Highlight Active.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/7. Dynamic Validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/gradient.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/gradient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3. Lab. DOM Manipulations/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/3. Ex DOM Manipulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/1.  Subtraction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/2. Fill Dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/3. Accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/4. Sections.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/5. Notification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/6. Time Converter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/7. Distance Converter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4. Ex DOM Manipulation/subtract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/6. Lab JQUERY.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/1. Text from List.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/2. Search in List.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/3. Countries Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/4. Link Buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/5. Selectable Towns(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/Ex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Lab JQUERY/link-buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/7. Ex JQUERY.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/1. Increment Counter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/2. Timer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/3. Book Generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/5. DOM search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/5. Form-Validation-Skeleton/formValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/5. Form-Validation-Skeleton/images/background3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/5. Form-Validation-Skeleton/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/5. Form-Validation-Skeleton/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/dom-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Ex JQUERY/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/8.  Lab Advanced Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/1. Aggregates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/2. Currency Format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/3. Command Processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/4. Max Element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/5. Next Article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/Basics1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/basics2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/basics3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.  Lab Advanced Functions/next-article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/.idea/9. Ex Advanced Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/1. Sort Array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/2. Argument Info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/3. Functional Sum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/4. BMI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/5. Vector Math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/6. Breackfast Robot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/7. Monkey Patcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.idea/JS Fundamentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/exampl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/exampl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/areaOfFigura.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/areaOfFigura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/distanceBetweenPoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/distanceBetweenPoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/filterByEge.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/filterByEge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/letterOccur.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/letterOccur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/newIndex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/nextDay.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/nextDay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/stringOfNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/stringOfNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/sum3Nums.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/sum3Nums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/sumVAT.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/1. JavaScript Syntax/sumVAT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/.idea/9. Objects and JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/1.townsToJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/2.scoreToHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/2.sumByTown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/3. FromJsonToHtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/4.  Sum by Town.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/5. WordsCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/inex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/10.  Objects and JSON/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/.idea/11. Ex. Object and JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/1. Heroic Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/2. JSON’s Table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/3. Cappy Juice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/4. Store Catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/11. Ex. Object and JSON/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/2. Control Flow Logic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/2. Control Flow Logic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/ChessBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/ChessBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/OddEven.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/OddEven.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/PrimeCheker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/PrimeCheker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/bottelsInBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/bottelsInBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/chessbord.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/colorfulNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/colorfulNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/leapYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/leapYear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/сircleArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/2. Control Flow Logic/сircleArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/3. Exercises Data Types Expressions Statements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/3. Exercises Data Types Expressions Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/dictionaries/Yulia_Karaliyska.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/12.assignProp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/12.assignProp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/15.pointInRectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/HelloJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/HelloJavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/rounding.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/3. Exercises Data Types Expressions Statements/rounding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/4 Functions and Arrow Functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/4 Functions and Arrow Functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/DaysOfWeek.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/DaysOfWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/RectangleOfStars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/RectangleOfStars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/TriangleOfstars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/TriangleOfstars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/functionalcalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/functionalcalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/palindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/wordsUppercase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/wordsUppercase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/аggregateElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/4 Functions and Arrow Functions/аggregateElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/5. Exercises Functions and Arrow Functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/5. Exercises Functions and Arrow Functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/10DNA Helix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/2RoadRadar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/2RoadRadar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/3TemplateFormat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/4CookingByNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/5ModifyAverage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/6DistanceIsValid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/7TreasurLocator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/8TripLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/9Radio Crystals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/5. Exercises Functions and Arrow Functions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/.idea/6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/1. Sum First Last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/10.equalNeighbors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/2. Even Position Element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/3. Negative Positive Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/4. First and Last K Numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/5. Last K Numbers Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/6.duobleNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/7.smallest2Nums.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/8.biggestElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/9. DiagonalSum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/Exemple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/6. Lab Arrays Matrices/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/.idea/7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/1.printArreyDelim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/10. Orbit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/2.printN-thElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/3.EddRemoveElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/4.rotateElements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/5. increasingSeq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/6. sortArreyBy2Kriteria.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/7. Magic Matrices.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/8. Diagonal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/9. DiagonalAtack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/7. Ex. Arrays Matrices/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/8. Lab Strings and Regex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/1. Print Letters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/10. EmailValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/12. MatchDates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/2. Concatenate Reversed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/3. Count Occurrences.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/4. Extract Text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/5. Aggregate Table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/6. Restaurant Bill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/7.  Usernames.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/8. Censorship.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/9. matchWords.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/8. Lab Strings and Regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/9. Ex Strings and Regex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/1.SplitWhithDelim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/10. SecretData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/2. repitString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/3. StartWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/4. EndWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/5. CapitalizeWords.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/6. CaptureNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/7. FindNamesInSentences.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/8. WordInSentence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/9. ExtractLincs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Ex Strings and Regex/hellou.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Lab Strings and Regex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/9. Lab Strings and Regex/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/Exam prep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/1. Kompot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/1. Kompot_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/2. F1 Race_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/2. Rais.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/24 April 2018 (4. Arena Taer).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/3. DNAex_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/3. Dna.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/4. F1 Championship_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Fundamentals/Exam prep/4. championship.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1590836241">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="916" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="916" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="32" column="3" lean-forward="true" selection-start-line="12" selection-end-line="32" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fg.js" />
+        <option value="$PROJECT_DIR$/1. Request Validator.js" />
+        <option value="$PROJECT_DIR$/2.  Even or Odd.js" />
+        <option value="$PROJECT_DIR$/tests/2.  Even or Odd.js" />
+        <option value="$PROJECT_DIR$/tests/testsOne.js" />
+        <option value="$PROJECT_DIR$/tests/3. Char Lookup.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="655" />
+    <option name="y" value="415" />
+    <option name="width" value="945" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/2.  Even or Odd.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Technologies\js-core\JS Advanced\JS Advanced\13. Ex Unit Testing\tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Demo tests">
+    <configuration name="1. Request Validator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1. Request Validator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2.  Even or Odd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tests/2.  Even or Odd.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="testsOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="testsOne.js" working-dir="$PROJECT_DIR$/tests">
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/2.  Even or Odd.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Demo tests" />
+      <item itemvalue="Node.js.testsOne.js" />
+      <item itemvalue="Node.js.1. Request Validator.js" />
+      <item itemvalue="Node.js.2.  Even or Odd.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.2.  Even or Odd.js" />
+        <item itemvalue="Node.js.1. Request Validator.js" />
+        <item itemvalue="Node.js.testsOne.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="" />
+      <created>1542188022426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542188022426</updated>
+      <workItem from="1542188023714" duration="985000" />
+      <workItem from="1542189426682" duration="7922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo_tests - 2018.11.14 at 12h 09m 29s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 13h 22m 53s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 13h 23m 41s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 37m 53s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 53m 54s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 58m 15s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 58m 50s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 59m 03s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 14h 59m 13s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.14 at 15h 00m 12s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8907000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18572372" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fg.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="12" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

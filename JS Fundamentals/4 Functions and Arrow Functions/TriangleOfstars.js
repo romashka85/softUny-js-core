@@ -13,6 +13,8 @@ function printTriangleOfStars(n) {
 printTriangleOfStars(4);
 
 
+
+
 function solev(input) {
 
     let n = Number(input[0]);
@@ -34,4 +36,3 @@ function solev(input) {
     console.log(str);
 }
 // solev(['4']);
-

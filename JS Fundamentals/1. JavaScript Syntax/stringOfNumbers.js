@@ -9,5 +9,3 @@ function stringOfNum(n) {
 
 }
 stringOfNum(5);
-
-

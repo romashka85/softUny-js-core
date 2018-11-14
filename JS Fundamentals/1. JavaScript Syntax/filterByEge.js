@@ -9,5 +9,3 @@ function filterByAge(minAge, nameA, ageA, nameB, ageB) {
 }
 filterByAge(12, 'Ivan', 15, 'Asen', 16);
 
-
-

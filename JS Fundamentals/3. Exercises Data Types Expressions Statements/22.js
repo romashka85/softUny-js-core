@@ -8,7 +8,6 @@ function calendar(arr) {
         currentDate = new Date(year, month - 2, lastDayOfPreviousMonth - currentDate.getDay() + 1);
     }
 
-
     let previousMonth = new Date(year, month - 2, 1).getMonth();
     let nextMonth = new Date(year, month, 1).getMonth();
     while(currentDate.getMonth() !== nextMonth || currentDate.getDay() !== 0) {

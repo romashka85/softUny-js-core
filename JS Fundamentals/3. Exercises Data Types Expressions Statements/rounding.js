@@ -6,4 +6,4 @@ function round(arr) {
     console.log(Math.round(num * denominator)/denominator);
 }
 
-round([3.14568975, 6]);
+round([3.14568975, 2]);

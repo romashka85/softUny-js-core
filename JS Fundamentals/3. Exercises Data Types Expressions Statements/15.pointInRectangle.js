@@ -11,5 +11,6 @@ function pointInRectangle(input) {
     else{
         console.log('outside');
     }
-}
 
+
+}
