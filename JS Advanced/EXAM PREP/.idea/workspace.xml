@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0e3746c3-d7c3-4d89-b328-efcaf07f1ec0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/1. Rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/2. Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/3. Get Persons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/3.1 Get Person Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/4. Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/5. Point Distance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/6. Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Lab Clasess/DEMO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/task1/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/task1/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/task4/4. Make Reservation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 1/task4/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 2/task1/Styky Notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 2/task1/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 2/task4/Online Shope.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam prep 2/task4/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13. Ex Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../13. Ex Unit Testing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/1. Lab. Document Object Model.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/misc.xml" beforeDir="false" />
@@ -111,6 +135,8 @@
       <change beforePath="$PROJECT_DIR$/../9. Ex Advanced Functions/6. Breackfast Robot.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../9. Ex Advanced Functions/7. Monkey Patcher.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../9. Ex Advanced Functions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam prep 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exam prep 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam prep 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exam prep 2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -122,115 +148,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1590836241">
+    <session id="-629836275">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="6" />
+          <entry key="html" value="4" />
+          <entry key="js" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="6" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="916" />
+          <entry key="html" value="2" />
+          <entry key="js" value="1327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="916" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1327" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="77347333">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="1542" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="1542" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+        <entry file="file://$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="3" selection-start-line="8" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="1700">
+              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Exam prep 1/task4/4. Make Reservation.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/4. Math Enforcer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Exam prep 1/task4/solution.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam prep 1/task1/Holiday destination.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam prep 1/task1/solution.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -248,23 +230,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fg.js" />
-        <option value="$PROJECT_DIR$/1. Request Validator.js" />
-        <option value="$PROJECT_DIR$/2.  Even or Odd.js" />
-        <option value="$PROJECT_DIR$/tests/2.  Even or Odd.js" />
-        <option value="$PROJECT_DIR$/tests/testsOne.js" />
-        <option value="$PROJECT_DIR$/4. Math Enforcer.js" />
-        <option value="$PROJECT_DIR$/tests/3. Char Lookup.js" />
-        <option value="$PROJECT_DIR$/tests/4. Math Enforcer.js" />
+        <option value="$PROJECT_DIR$/Exam prep 2/task4/solution.js" />
+        <option value="$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js" />
+        <option value="$PROJECT_DIR$/Exam prep 1/task1/Holiday destination.html" />
+        <option value="$PROJECT_DIR$/Exam prep 1/task1/solution.js" />
+        <option value="$PROJECT_DIR$/Exam prep 1/task4/4. Make Reservation.html" />
+        <option value="$PROJECT_DIR$/Exam prep 1/task4/solution.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
+    <service-enabled>false</service-enabled>
     <exe-path />
-    <other-services-enabled>true</other-services-enabled>
+    <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
@@ -272,53 +252,52 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="997" />
-    <option name="y" value="487" />
+    <option name="x" value="955" />
+    <option name="y" value="545" />
     <option name="width" value="945" />
-    <option name="height" value="644" />
+    <option name="height" value="585" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="EXAM PREP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXAM PREP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="EXAM PREP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXAM PREP" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam prep 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EXAM PREP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXAM PREP" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam prep 1" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../14. Lab Clasess" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/EXAM ADVANSED" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Technologies\js-core\JS Advanced\13. Ex Unit Testing\tests" />
-      <recent name="C:\Technologies\js-core\JS Advanced\JS Advanced\13. Ex Unit Testing\tests" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="settings.phonegap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,23 +311,83 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Demo tests">
-    <configuration name="1. Request Validator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1. Request Validator.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Mocha.HolidayPackage.corect massage ">
+    <configuration name="HolidayPackage.addVacationer must throe an error for adding only one name " type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
+      <test-names>
+        <name value="HolidayPackage" />
+        <name value="addVacationer must throe an error for adding only one name " />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="2.  Even or Odd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tests/2.  Even or Odd.js" working-dir="$PROJECT_DIR$">
+    <configuration name="HolidayPackage.addVacationer must throw an error for adding empty string" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
+      <test-names>
+        <name value="HolidayPackage" />
+        <name value="addVacationer must throw an error for adding empty string" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="3. Char Lookup.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3. Char Lookup.js" working-dir="$PROJECT_DIR$/tests">
+    <configuration name="HolidayPackage.corect massage " type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
+      <test-names>
+        <name value="HolidayPackage" />
+        <name value="corect massage " />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="4. Math Enforcer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="4. Math Enforcer.js" working-dir="$PROJECT_DIR$/tests">
+    <configuration name="HolidayPackage.generateHolidayPackege must thow an error" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
+      <test-names>
+        <name value="HolidayPackage" />
+        <name value="generateHolidayPackege must thow an error" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="testsOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="testsOne.js" working-dir="$PROJECT_DIR$/tests">
+    <configuration name="HolidayPackage.insuranceIncluded - value - false" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
+      <test-names>
+        <name value="HolidayPackage" />
+        <name value="insuranceIncluded - value - false" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Demo tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration name="Test holiday" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -356,24 +395,24 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/tests/4. Math Enforcer.js</test-file>
+      <test-file>$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js</test-file>
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Mocha.Demo tests" />
-      <item itemvalue="Node.js.testsOne.js" />
-      <item itemvalue="Node.js.1. Request Validator.js" />
-      <item itemvalue="Node.js.2.  Even or Odd.js" />
-      <item itemvalue="Node.js.3. Char Lookup.js" />
-      <item itemvalue="Node.js.4. Math Enforcer.js" />
+      <item itemvalue="Mocha.Test holiday" />
+      <item itemvalue="Mocha.HolidayPackage.insuranceIncluded - value - false" />
+      <item itemvalue="Mocha.HolidayPackage.generateHolidayPackege must thow an error" />
+      <item itemvalue="Mocha.HolidayPackage.addVacationer must throw an error for adding empty string" />
+      <item itemvalue="Mocha.HolidayPackage.addVacationer must throe an error for adding only one name " />
+      <item itemvalue="Mocha.HolidayPackage.corect massage " />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.4. Math Enforcer.js" />
-        <item itemvalue="Node.js.3. Char Lookup.js" />
-        <item itemvalue="Node.js.2.  Even or Odd.js" />
-        <item itemvalue="Node.js.1. Request Validator.js" />
-        <item itemvalue="Node.js.testsOne.js" />
+        <item itemvalue="Mocha.HolidayPackage.corect massage " />
+        <item itemvalue="Mocha.HolidayPackage.addVacationer must throe an error for adding only one name " />
+        <item itemvalue="Mocha.HolidayPackage.addVacationer must throw an error for adding empty string" />
+        <item itemvalue="Mocha.HolidayPackage.generateHolidayPackege must thow an error" />
+        <item itemvalue="Mocha.HolidayPackage.insuranceIncluded - value - false" />
       </list>
     </recent_temporary>
   </component>
@@ -382,62 +421,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="" />
-      <created>1542188022426</created>
+      <changelist id="0e3746c3-d7c3-4d89-b328-efcaf07f1ec0" name="Default Changelist" comment="" />
+      <created>1542491609948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542188022426</updated>
-      <workItem from="1542188023714" duration="985000" />
-      <workItem from="1542189426682" duration="7922000" />
-      <workItem from="1542202926629" duration="10541000" />
-      <workItem from="1542279928531" duration="19000" />
+      <updated>1542491609948</updated>
+      <workItem from="1542491611180" duration="4600000" />
+      <workItem from="1542541616963" duration="3988000" />
+      <workItem from="1542549466272" duration="148000" />
+      <workItem from="1542549690117" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 55m 29s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_insuranceIncluded_-_value_-_false - 2018.11.18 at 14h 13m 18s.xml">
+      <configuration name="HolidayPackage.insuranceIncluded - value - false" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 58m 01s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_insuranceIncluded_-_value_-_false - 2018.11.18 at 14h 14m 06s.xml">
+      <configuration name="HolidayPackage.insuranceIncluded - value - false" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 59m 32s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Test_holiday - 2018.11.18 at 14h 14m 48s.xml">
+      <configuration name="Test holiday" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 03m 04s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage - 2018.11.18 at 14h 22m 02s.xml">
+      <configuration name="HolidayPackage" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 07m 05s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_insuranceIncluded_-_value_-_false - 2018.11.18 at 14h 22m 29s.xml">
+      <configuration name="HolidayPackage.insuranceIncluded - value - false" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 08m 28s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_generateHolidayPackege_must_thow_an_error - 2018.11.18 at 14h 24m 54s.xml">
+      <configuration name="HolidayPackage.generateHolidayPackege must thow an error" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 10m 46s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_generateHolidayPackege_must_thow_an_error - 2018.11.18 at 14h 29m 51s.xml">
+      <configuration name="HolidayPackage.generateHolidayPackege must thow an error" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 11m 35s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_addVacationer_must_throw_an_error_for_adding_empty_string - 2018.11.18 at 14h 31m 49s.xml">
+      <configuration name="HolidayPackage.addVacationer must throw an error for adding empty string" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 14m 33s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_addVacationer_must_throe_an_error_for_adding_only_one_name_ - 2018.11.18 at 14h 37m 20s.xml">
+      <configuration name="HolidayPackage.addVacationer must throe an error for adding only one name " configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 16m 47s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="HolidayPackage_corect_massage_ - 2018.11.18 at 15h 34m 24s.xml">
+      <configuration name="HolidayPackage.corect massage " configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19467000" />
+    <option name="totallyTimeSpent" value="8776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14540648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14672835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49503547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3248227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,6 +489,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.118308" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -458,41 +516,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fg.js" />
-    <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+    <entry file="file://$PROJECT_DIR$/Exam prep 2/task4/Online Shope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="3" selection-start-line="8" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="200">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
+    <entry file="file://$PROJECT_DIR$/Exam prep 2/task4/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="1380">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
+    <entry file="file://$PROJECT_DIR$/Exam prep 1/task2/test/Holiday Pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="36" />
+        <state relative-caret-position="1700">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Exam prep 1/task4/4. Make Reservation.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/4. Math Enforcer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Exam prep 1/task1/Holiday destination.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam prep 1/task1/solution.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam prep 1/task4/solution.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

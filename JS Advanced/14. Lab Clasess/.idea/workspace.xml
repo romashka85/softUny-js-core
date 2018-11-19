@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="be63ef5f-12dd-4a21-b3e5-f3ae3307875d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Get Persons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.1 Get Person Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Point Distance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEMO.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12. Lab Unit Testing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13. Ex Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../13. Ex Unit Testing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/1. Lab. Document Object Model.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../2. Lab. Document Object Model/.idea/misc.xml" beforeDir="false" />
@@ -122,113 +134,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1590836241">
+    <session id="-1020086457">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="6" />
+          <entry key="js" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="916" />
+          <entry key="js" value="1492" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="916" />
+          <entry key="JavaScript" value="1492" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="77347333">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="1542" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="1542" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+        <entry file="file://$PROJECT_DIR$/DEMO.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="3" selection-start-line="8" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
+        <entry file="file://$PROJECT_DIR$/1. Rectangle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
+        <entry file="file://$PROJECT_DIR$/2. Person.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
+        <entry file="file://$PROJECT_DIR$/3. Get Persons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            <state relative-caret-position="80">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Circle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="1" lean-forward="true" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Point Distance.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/4. Math Enforcer.js">
+        <entry file="file://$PROJECT_DIR$/6. Cards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+            <state relative-caret-position="337">
+              <caret line="45" column="1" selection-start-column="14" selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.1 Get Person Object.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -248,23 +255,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fg.js" />
-        <option value="$PROJECT_DIR$/1. Request Validator.js" />
-        <option value="$PROJECT_DIR$/2.  Even or Odd.js" />
-        <option value="$PROJECT_DIR$/tests/2.  Even or Odd.js" />
-        <option value="$PROJECT_DIR$/tests/testsOne.js" />
-        <option value="$PROJECT_DIR$/4. Math Enforcer.js" />
-        <option value="$PROJECT_DIR$/tests/3. Char Lookup.js" />
-        <option value="$PROJECT_DIR$/tests/4. Math Enforcer.js" />
+        <option value="$PROJECT_DIR$/DEMO.js" />
+        <option value="$PROJECT_DIR$/1. Rectangle.js" />
+        <option value="$PROJECT_DIR$/2. Person.js" />
+        <option value="$PROJECT_DIR$/3. Get Persons.js" />
+        <option value="$PROJECT_DIR$/3.1 Get Person Object.js" />
+        <option value="$PROJECT_DIR$/4. Circle.js" />
+        <option value="$PROJECT_DIR$/5. Point Distance.js" />
+        <option value="$PROJECT_DIR$/6. Cards.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
+    <service-enabled>false</service-enabled>
     <exe-path />
-    <other-services-enabled>true</other-services-enabled>
+    <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
@@ -272,13 +279,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="997" />
-    <option name="y" value="487" />
+    <option name="x" value="655" />
+    <option name="y" value="415" />
     <option name="width" value="945" />
-    <option name="height" value="644" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -290,13 +297,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="13. Ex Unit Testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Ex Unit Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="14. Lab Clasess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="14. Lab Clasess" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,18 +309,10 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../14. Lab Clasess" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXAM PREP/Exam prep 1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Technologies\js-core\JS Advanced\13. Ex Unit Testing\tests" />
-      <recent name="C:\Technologies\js-core\JS Advanced\JS Advanced\13. Ex Unit Testing\tests" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="settings.phonegap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,48 +326,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Demo tests">
-    <configuration name="1. Request Validator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1. Request Validator.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.6. Cards.js">
+    <configuration name="3. Get Persons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3. Get Persons.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="2.  Even or Odd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tests/2.  Even or Odd.js" working-dir="$PROJECT_DIR$">
+    <configuration name="3.1 Get Person Object.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3.1 Get Person Object.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="3. Char Lookup.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3. Char Lookup.js" working-dir="$PROJECT_DIR$/tests">
+    <configuration name="4. Circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="4. Circle.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="4. Math Enforcer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="4. Math Enforcer.js" working-dir="$PROJECT_DIR$/tests">
+    <configuration name="5. Point Distance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="5. Point Distance.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="testsOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="testsOne.js" working-dir="$PROJECT_DIR$/tests">
-      <method v="2" />
-    </configuration>
-    <configuration name="Demo tests" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/tests/4. Math Enforcer.js</test-file>
+    <configuration name="6. Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="6. Cards.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Mocha.Demo tests" />
-      <item itemvalue="Node.js.testsOne.js" />
-      <item itemvalue="Node.js.1. Request Validator.js" />
-      <item itemvalue="Node.js.2.  Even or Odd.js" />
-      <item itemvalue="Node.js.3. Char Lookup.js" />
-      <item itemvalue="Node.js.4. Math Enforcer.js" />
+      <item itemvalue="Node.js.3. Get Persons.js" />
+      <item itemvalue="Node.js.3.1 Get Person Object.js" />
+      <item itemvalue="Node.js.4. Circle.js" />
+      <item itemvalue="Node.js.5. Point Distance.js" />
+      <item itemvalue="Node.js.6. Cards.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.4. Math Enforcer.js" />
-        <item itemvalue="Node.js.3. Char Lookup.js" />
-        <item itemvalue="Node.js.2.  Even or Odd.js" />
-        <item itemvalue="Node.js.1. Request Validator.js" />
-        <item itemvalue="Node.js.testsOne.js" />
+        <item itemvalue="Node.js.6. Cards.js" />
+        <item itemvalue="Node.js.5. Point Distance.js" />
+        <item itemvalue="Node.js.4. Circle.js" />
+        <item itemvalue="Node.js.3.1 Get Person Object.js" />
+        <item itemvalue="Node.js.3. Get Persons.js" />
       </list>
     </recent_temporary>
   </component>
@@ -382,70 +364,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9202dbe-b32f-4af0-b9af-95c086885189" name="Default Changelist" comment="" />
-      <created>1542188022426</created>
+      <changelist id="be63ef5f-12dd-4a21-b3e5-f3ae3307875d" name="Default Changelist" comment="" />
+      <created>1542279947921</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542188022426</updated>
-      <workItem from="1542188023714" duration="985000" />
-      <workItem from="1542189426682" duration="7922000" />
-      <workItem from="1542202926629" duration="10541000" />
-      <workItem from="1542279928531" duration="19000" />
+      <updated>1542279947921</updated>
+      <workItem from="1542279949261" duration="11260000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 55m 29s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 58m 01s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 11h 59m 32s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 03m 04s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 07m 05s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 08m 28s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 10m 46s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 11m 35s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 14m 33s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Demo_tests - 2018.11.15 at 12h 16m 47s.xml">
-      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19467000" />
+    <option name="totallyTimeSpent" value="11260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14540648" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6437541" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49503547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.364539" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,39 +405,59 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fg.js" />
-    <entry file="file://$PROJECT_DIR$/tests/testsOne.js">
+    <entry file="file://$PROJECT_DIR$/DEMO.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="3" selection-start-line="8" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="180">
+          <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. Request Validator.js">
+    <entry file="file://$PROJECT_DIR$/1. Rectangle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="32" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="9" column="1" lean-forward="true" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/2.  Even or Odd.js">
+    <entry file="file://$PROJECT_DIR$/2. Person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="36" />
+        <state relative-caret-position="220">
+          <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/3. Char Lookup.js">
+    <entry file="file://$PROJECT_DIR$/3.1 Get Person Object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        <state relative-caret-position="500">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/4. Math Enforcer.js">
+    <entry file="file://$PROJECT_DIR$/3. Get Persons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="80">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="true" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Point Distance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="45" column="1" selection-start-column="14" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>

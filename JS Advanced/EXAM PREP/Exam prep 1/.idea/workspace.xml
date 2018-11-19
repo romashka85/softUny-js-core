@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b51980-fca2-47cf-bffb-3b079d3d0c69" name="Default Changelist" comment="">
+    <list default="true" id="506f7103-4af7-43d9-a6fa-86da97f89d3f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/1. Rectangle.js" afterDir="false" />
@@ -12,16 +12,19 @@
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/5. Point Distance.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/6. Cards.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../14. Lab Clasess/DEMO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam prep 1/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam prep 1/task1/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam prep 1/task1/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam prep 1/task4/4. Make Reservation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam prep 1/task4/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1/Styky Notes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4/Online Shope.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/test/Holiday Pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/4. Make Reservation.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task4/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep 2/task1/Styky Notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep 2/task1/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep 2/task4/Online Shope.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam prep 2/task4/solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../12. Lab Unit Testing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. Lab Unit Testing/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../12. Lab Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. Lab Unit Testing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../13. Ex Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. Ex Unit Testing/.idea/workspace.xml" afterDir="false" />
@@ -133,8 +136,8 @@
       <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/6. Breackfast Robot.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/7. Monkey Patcher.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../9. Ex Advanced Functions/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam prep 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam prep 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam prep 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam prep 2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -146,69 +149,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1546382760">
+    <session id="969129611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="716" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="716" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="772616107">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
-          <entry key="js" value="2" />
+          <entry key="html" value="4" />
+          <entry key="js" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="2" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="11" />
-          <entry key="js" value="306" />
+          <entry key="html" value="17" />
+          <entry key="js" value="3212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="11" />
-          <entry key="JavaScript" value="306" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="17" />
+          <entry key="JavaScript" value="3211" />
         </counts>
       </usages-collector>
     </session>
@@ -216,28 +188,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task1/code.js">
+        <entry file="file://$PROJECT_DIR$/task4/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="1" selection-end-line="28" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task4/Online Shope.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+            <state relative-caret-position="160">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task4/solution.js">
+        <entry file="file://$PROJECT_DIR$/task2/test/Holiday Pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="180">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task1/Holiday destination.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task1/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task4/4. Make Reservation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -247,8 +240,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -258,12 +251,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task1/notes.html" />
+        <option value="$PROJECT_DIR$/task1/Holiday destination.html" />
         <option value="$PROJECT_DIR$/task1/solution.js" />
-        <option value="$PROJECT_DIR$/code.js" />
-        <option value="$PROJECT_DIR$/task1/Styky Notes.html" />
-        <option value="$PROJECT_DIR$/task1/code.js" />
-        <option value="$PROJECT_DIR$/task4/Online Shope.html" />
+        <option value="$PROJECT_DIR$/task4/4. Make Reservation.js" />
+        <option value="$PROJECT_DIR$/task4/4. Make Reservation.html" />
         <option value="$PROJECT_DIR$/task4/solution.js" />
       </list>
     </option>
@@ -271,9 +262,9 @@
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
+    <service-enabled>false</service-enabled>
     <exe-path />
-    <other-services-enabled>true</other-services-enabled>
+    <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
@@ -281,9 +272,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="997" />
-    <option name="width" value="945" />
-    <option name="height" value="1039" />
+    <option name="x" value="901" />
+    <option name="y" value="17" />
+    <option name="width" value="1060" />
+    <option name="height" value="983" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -293,42 +285,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Exam prep 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exam prep 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam prep 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam prep 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exam prep 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exam prep 2" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam prep 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam prep 1" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exam prep 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exam prep 2" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam prep 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam prep 1" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="settings.phonegap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Technologies\js-core\JS Advanced\EXAM PREP\Exam prep 2\task1" />
+      <recent name="C:\Technologies\js-core\JS Advanced\EXAM PREP\Exam prep 1\task1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Technologies\js-core\JS Advanced\EXAM PREP\Exam prep 1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -343,31 +339,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
-    <configuration name="Online Shope.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exam prep 2/task4/Online Shope.html">
+  <component name="RunManager" selected="JavaScript Debug.4. Make Reservation.html">
+    <configuration name="4. Make Reservation.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exam prep 1/task4/4. Make Reservation.html">
       <method v="2" />
     </configuration>
-    <configuration name="Styky Notes.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exam prep 2/task1/Styky Notes.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="notes.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exam prep 2/task1/notes.html">
+    <configuration name="Holiday destination.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exam prep 1/task1/Holiday destination.html">
       <method v="2" />
     </configuration>
     <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/task4">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.notes.html" />
-      <item itemvalue="JavaScript Debug.Styky Notes.html" />
-      <item itemvalue="JavaScript Debug.Online Shope.html" />
+      <item itemvalue="JavaScript Debug.Holiday destination.html" />
       <item itemvalue="Node.js.solution.js" />
+      <item itemvalue="JavaScript Debug.4. Make Reservation.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.4. Make Reservation.html" />
         <item itemvalue="Node.js.solution.js" />
-        <item itemvalue="JavaScript Debug.Online Shope.html" />
-        <item itemvalue="JavaScript Debug.Styky Notes.html" />
-        <item itemvalue="JavaScript Debug.notes.html" />
+        <item itemvalue="JavaScript Debug.Holiday destination.html" />
       </list>
     </recent_temporary>
   </component>
@@ -376,28 +367,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e2b51980-fca2-47cf-bffb-3b079d3d0c69" name="Default Changelist" comment="" />
-      <created>1542127446642</created>
+      <changelist id="506f7103-4af7-43d9-a6fa-86da97f89d3f" name="Default Changelist" comment="" />
+      <created>1542367850703</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542127446642</updated>
-      <workItem from="1542127448043" duration="5445000" />
-      <workItem from="1542488763351" duration="2792000" />
+      <updated>1542367850703</updated>
+      <workItem from="1542367851916" duration="22907000" />
+      <workItem from="1542563689861" duration="1987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8237000" />
+    <option name="totallyTimeSpent" value="24894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0687376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24785195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6724638" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,25 +402,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14540648" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -437,33 +410,50 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task1/notes.html" />
-    <entry file="file://$PROJECT_DIR$/task1/solution.js" />
-    <entry file="file://$PROJECT_DIR$/task1/code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../../07. Ex JQUERY/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/task1/Styky Notes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1640">
-          <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/task1/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/task4/Online Shope.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/task4/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="160">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/Holiday destination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/4. Make Reservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2/test/Holiday Pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="22" />
         </state>
       </provider>
     </entry>
