@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/../01. Ex Rest and HTTP request/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../01. Ex Rest and HTTP request/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../01. Ex Rest and HTTP request/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

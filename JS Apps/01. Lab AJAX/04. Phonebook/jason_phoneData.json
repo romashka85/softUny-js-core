@@ -1,0 +1,16 @@
+{
+  "phonebook": {
+    "first": {
+      "person": "Kiril",
+      "phone": "+359 548 454 787"
+    },
+    "second": {
+      "person": "Maria",
+      "phone": "+359 548 454 787"
+    },
+    "third": {
+      "person": "Todor",
+      "phone": "+359 548 454 787"
+    }
+  }
+}
