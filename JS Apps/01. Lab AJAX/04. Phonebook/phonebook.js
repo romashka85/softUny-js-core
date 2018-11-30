@@ -1,4 +1,4 @@
-$(function () {
+$(function attachEvents() {
     $('#btnLoad').on('click', loadContacts);
     $('#btnCreate').on('click', createContacts);
     let baseServiseUrl = "https://phonebook-yulia.firebaseio.com/phonebook";
