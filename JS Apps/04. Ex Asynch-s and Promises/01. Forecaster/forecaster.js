@@ -6,23 +6,6 @@ function attachEvents() {
     //compile data and display
     //handle errors
 
-    // let symbol = '';
-    //
-    // switch (today.forecast.condition) {
-    //     case 'Sunny':
-    //         symbol = '&#x2600;';  // ☀
-    //         break;
-    //     case 'Partly sunny':
-    //         symbol = '&#x26C5;';  // ⛅
-    //         break;
-    //     case 'Overcast':
-    //         symbol = '&#x2601;';   // ☁
-    //         break;
-    //     case 'Rain':
-    //         symbol = '&#x2614;';  // ☂
-    //         break;
-    // }
-
     const  host = 'https://judgetests.firebaseio.com/';
     const symbols = {
         'Sunny': '&#x2600;', // ☀
