@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8884a45-16e5-4481-83bf-9776c0f1c946" name="Default Changelist" comment="" />
+    <list default="true" id="bd710a79-ee81-48ea-b77d-557b952dd1ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01. Lab AJAX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01. Lab AJAX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Ex Rest and HTTP request/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02. Ex Rest and HTTP request/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,80 +15,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="163531556">
+    <session id="153187466">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="6" />
-          <entry key="js" value="3" />
-          <entry key="json" value="1" />
+          <entry key="html" value="3" />
+          <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="6" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="3" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="412" />
-          <entry key="js" value="720" />
-          <entry key="json" value="74" />
+          <entry key="html" value="150" />
+          <entry key="js" value="365" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="412" />
-          <entry key="JSON" value="74" />
-          <entry key="JavaScript" value="720" />
+          <entry key="HTML" value="150" />
+          <entry key="JavaScript" value="365" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01. Github Commits.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 Blog/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04. Phonebook/github-repos.html">
+        <entry file="file://$PROJECT_DIR$/02 Blog/solution.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Phonebook/jason_phoneData.json">
+        <entry file="file://$PROJECT_DIR$/some exemple.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Phonebook/phonebook.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. Github Repos/github-repos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="417">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -106,15 +104,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Some Demo/text.html" />
-        <option value="$PROJECT_DIR$/Some Demo/ajax-load.html" />
-        <option value="$PROJECT_DIR$/01. XHR (XmlHttpRequest)/xmlhttprequest-example.html" />
-        <option value="$PROJECT_DIR$/Some Demo/ajax-load.js" />
-        <option value="$PROJECT_DIR$/3.Github Repos/github-repos.html" />
-        <option value="$PROJECT_DIR$/04. Phonebook/jason_phoneData.js" />
-        <option value="$PROJECT_DIR$/04. Phonebook/jason_phoneData.json" />
-        <option value="$PROJECT_DIR$/04. Phonebook/phonebook.js" />
-        <option value="$PROJECT_DIR$/04. Phonebook/github-repos.html" />
+        <option value="$PROJECT_DIR$/some exemple.html" />
+        <option value="$PROJECT_DIR$/some exemple.js" />
+        <option value="$PROJECT_DIR$/01. Github Commits.html" />
+        <option value="$PROJECT_DIR$/02. Blog.html" />
+        <option value="$PROJECT_DIR$/02 Blog/blog.html" />
+        <option value="$PROJECT_DIR$/02 Blog/solution.js" />
       </list>
     </option>
   </component>
@@ -130,10 +125,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="995" />
-    <option name="width" value="945" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1032" />
+    <option name="y" value="112" />
+    <option name="width" value="869" />
+    <option name="height" value="869" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -143,23 +139,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="01. Lab AJAX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Lab AJAX" type="462c0819:PsiDirectoryNode" />
+              <item name="03. Lab Asynch-s Progr-ing and Promises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03. Lab Asynch-s Progr-ing and Promises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="01. Lab AJAX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Lab AJAX" type="462c0819:PsiDirectoryNode" />
-              <item name="04. Phonebook" type="462c0819:PsiDirectoryNode" />
+              <item name="03. Lab Asynch-s Progr-ing and Promises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03. Lab Asynch-s Progr-ing and Promises" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,6 +166,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Technologies\js-core\JS Apps\03. Lab Asynch-s Progr-ing and Promises\02 Blog" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,35 +184,57 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.blog.html">
+    <configuration name="01. Github Commits.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/03. Lab Asynch-s Progr-ing and Promises/01. Github Commits.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="blog.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/03. Lab Asynch-s Progr-ing and Promises/02 Blog/blog.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="some exemple.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="some exemple.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.some exemple.js" />
+      <item itemvalue="JavaScript Debug.01. Github Commits.html" />
+      <item itemvalue="JavaScript Debug.blog.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.blog.html" />
+        <item itemvalue="JavaScript Debug.01. Github Commits.html" />
+        <item itemvalue="Node.js.some exemple.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8884a45-16e5-4481-83bf-9776c0f1c946" name="Default Changelist" comment="" />
-      <created>1542896779613</created>
+      <changelist id="bd710a79-ee81-48ea-b77d-557b952dd1ef" name="Default Changelist" comment="" />
+      <created>1543594714848</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542896779613</updated>
-      <workItem from="1542896780832" duration="19106000" />
-      <workItem from="1543410197903" duration="1949000" />
-      <workItem from="1543594695746" duration="7000" />
+      <updated>1543594714848</updated>
+      <workItem from="1543594716109" duration="2786000" />
+      <workItem from="1543686017843" duration="1827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21062000" />
+    <option name="totallyTimeSpent" value="4613000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="510" y="0" width="756" height="832" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17107093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14871117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3137255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -232,59 +255,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Some Demo/ajax-load.html">
+    <entry file="file://$PROJECT_DIR$/some exemple.html" />
+    <entry file="file://$PROJECT_DIR$/some exemple.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="67" />
+        <state relative-caret-position="417">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Some Demo/text.html">
+    <entry file="file://$PROJECT_DIR$/01. Github Commits.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="360">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Some Demo/ajax-load.js">
+    <entry file="file://$PROJECT_DIR$/02 Blog/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="180">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01. XHR (XmlHttpRequest)/xmlhttprequest-example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Phonebook/github-repos.html">
+    <entry file="file://$PROJECT_DIR$/02 Blog/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Phonebook/jason_phoneData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Phonebook/phonebook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03. Github Repos/github-repos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
