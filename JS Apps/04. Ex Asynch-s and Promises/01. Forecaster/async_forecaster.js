@@ -37,9 +37,9 @@ function attachEvents() {
             //request upcoming forecast (async 2)
             Promise
                 .all([
-                $.get(`${host}forecast/today/${code}.json`),
-                $.get(`${host}forecast/upcoming/${code}.json`)
-            ])
+                    $.get(`${host}forecast/today/${code}.json`),
+                    $.get(`${host}forecast/upcoming/${code}.json`)
+                ])
                 .then(displayResolts)
                 .catch(handelError);
         }
@@ -77,10 +77,10 @@ function attachEvents() {
             $('#forecast').show();
 
         }
-        
+
         function renderUpcomingData(data) {
             const symbol = symbols[data.condition];
-           return `<span class="upcoming">
+            return `<span class="upcoming">
                         <span class="symbol">${symbol}</span>
                         <span class="forecast-data">${data.low}&#176;/${data.high}&#176;</span>
                         <span class="forecast-data">${data.condition}</span>
@@ -93,3 +93,5 @@ function attachEvents() {
     }
 
 }
+
+
