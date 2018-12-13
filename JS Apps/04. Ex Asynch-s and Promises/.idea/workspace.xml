@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a0d1bb25-b051-4726-b333-4dc709e3626d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Forecaster/01. Forecaster.html" beforeDir="false" afterPath="$PROJECT_DIR$/01. Forecaster/01. Forecaster.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01. Forecaster/forecaster.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. Forecaster/forecaster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/attachEvents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/imgs/sight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/imgs/target.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/imgs/west.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/loadCanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem8Skeleton/WildWildWest/west.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +24,7 @@
     <session id="176579346">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.opened" value="3" />
@@ -109,7 +114,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="975" />
     <option name="y" value="426" />
     <option name="width" value="910" />
@@ -198,18 +203,17 @@
       <updated>1543841361237</updated>
       <workItem from="1543841364128" duration="12449000" />
       <workItem from="1544098689564" duration="15776000" />
-      <workItem from="1544517981745" duration="19736000" />
+      <workItem from="1544517981745" duration="19900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47961000" />
+    <option name="totallyTimeSpent" value="48125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18968935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18968935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

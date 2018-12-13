@@ -5,8 +5,12 @@ function attachEvents() {
     //compile data and display
     //handle errors
 
+<<<<<<< HEAD
 
     const host = 'https://judgetests.firebaseio.com/';
+=======
+    const  host = 'https://judgetests.firebaseio.com/';
+>>>>>>> 18f551654fee0b9d2cb02bd2b8ec74df36b5fcbe
     const symbols = {
         'Sunny': '&#x2600',             // ☀
         'Partly sunny': '&#x26C5',      // ⛅
