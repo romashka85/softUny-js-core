@@ -1,6 +1,4 @@
 
-
-
 // Attach user credentials to each requests
 // Get all venues for given date (Post)
 // Iterate venue IDs and request details (parallel GET request
