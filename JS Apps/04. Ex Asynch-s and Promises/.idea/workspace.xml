@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0d1bb25-b051-4726-b333-4dc709e3626d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Forecaster/forecaster.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. Forecaster/forecaster.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Venuemaster/venuemaster.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Venuemaster/venuemaster.js" afterDir="false" />
-    </list>
+    <list default="true" id="a0d1bb25-b051-4726-b333-4dc709e3626d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +15,7 @@
     <session id="176579346">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -67,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2. Fisher Game/catch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="89" column="1" lean-forward="true" selection-end-line="89" selection-end-column="1" />
+            <state relative-caret-position="397">
+              <caret line="83" column="7" lean-forward="true" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -159,31 +155,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="04. Ex Asynch-s and Promises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04. Ex Asynch-s and Promises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="04. Ex Asynch-s and Promises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04. Ex Asynch-s and Promises" type="462c0819:PsiDirectoryNode" />
-              <item name="2. Fisher Game" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../06. Ex Templating" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -242,16 +220,15 @@
       <workItem from="1544098689564" duration="15776000" />
       <workItem from="1544517981745" duration="19900000" />
       <workItem from="1544795046787" duration="14760000" />
-      <workItem from="1545138728036" duration="5581000" />
+      <workItem from="1545138728036" duration="5896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68466000" />
+    <option name="totallyTimeSpent" value="68781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.37475213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -332,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2. Fisher Game/catch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="89" column="1" lean-forward="true" selection-end-line="89" selection-end-column="1" />
+        <state relative-caret-position="397">
+          <caret line="83" column="7" lean-forward="true" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
         </state>
       </provider>
     </entry>
