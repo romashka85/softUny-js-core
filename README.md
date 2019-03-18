@@ -1,1 +1,1 @@
-# js-core
+# SoftUni-js-core
